@@ -9,8 +9,14 @@ Spanish: Muestra tu ping dentro del servidor, puedes ver el tuyo como el de otro
 English:
 
 | Command | Permission | Aliases | Description |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | /ping | showping.command | 0 aliases | Show your ping or others ping's |
+
+Spanish:
+
+| Comando | Permiso | Alias | Descripción |
+| --- | --- | --- | --- |
+| /ping | showping.command | 0 alias | Muestra tu ping u otros ping |
 
 # SUPPORT SHOWPING
 
