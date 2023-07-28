@@ -27,5 +27,7 @@ Spanish: No hay soporte momentáneamente
 # AUTHOR SHOWPING
 
 Twitter: https://twitter.com/iKurthMC
+
 Github: https://github.com/iKurthMC
+
 YouTube: https://youtube.com/@iKurthMC
