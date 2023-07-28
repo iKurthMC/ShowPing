@@ -1,2 +1,29 @@
-# ShowPing
-Show your ping inside the server, you can see yours like that of another connected player
+# PLUGIN [SHOWPING] - POCKETMINE-API 5
+
+English: Show your ping inside the server, you can see yours like that of another connected player
+Spanish: Muestra tu ping dentro del servidor, puedes ver el tuyo como el de otro jugador conectado
+
+# COMMAND [SHOWPING] - COMANDO [SHOWPING]
+
+English:
+
+| Command | Permission | Aliases | Description |
+| --- | --- | --- |
+| /ping | showping.command | 0 aliases | Show your ping or others ping's |
+
+Spanish:
+
+| Comando | Permiso | Alias | Descripción |
+| --- | --- | --- |
+| /ping | showping.command | 0 alias | Muestra tu ping u otros ping |
+
+# SUPPORT [SHOWPING] - SOPORTE [SHOWPING]
+
+English: There is no support at the moment
+Spanish: No hay soporte momentáneamente
+
+# AUTHOR [SHOWPING] - AUTOR [SHOWPING]
+
+Twitter: https://twitter.com/iKurthMC
+Github: https://github.com/iKurthMC
+YouTube: https://youtube.com/@iKurthMC
