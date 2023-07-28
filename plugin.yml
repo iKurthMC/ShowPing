@@ -1,0 +1,9 @@
+name: ShowPing
+main: ShowPing\Central
+version: 0.0.1
+api: [5.0.0]
+author: Kurth
+permissions:
+ showping.command:
+  default: true
+  description: Player Permission
